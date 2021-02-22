@@ -186,14 +186,13 @@ header{
 /*blog2 starts*/
 
 .load{
-	margin: 0 auto;
-	width: 15%;
+	padding: 90px 0;
+	text-align: center;
 	/*border: 1px solid #626262;*/
 }
 .load button{
-	margin:10px 0 95px 0;
-	padding: 12px 0;
-	width: 100%;
+	width: 165px;
+	height: 60px;
 	font-family: 'Playfair Display', serif;
 	font-size: 23px;
 	font-weight: 400;
